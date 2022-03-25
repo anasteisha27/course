@@ -26,17 +26,18 @@ body {
 
 
 a {
-    color: darkorange;
+    color: cadetblue;
     text-decoration: none;
     height: 50px;
 }
 
 ul {
     list-style: none;
+    
 }
 
 a:hover {
-    color: darkseagreen;
+    color: coral;
     font-size: 20px;
     text-align: center;
     background-color: antiquewhite;
@@ -45,26 +46,52 @@ a:hover {
 input {
     width: 220px;
     height: 30px;
-    color: darkseagreen;
+    color: cadetblue;
 }
 
 input:hover {
-    color: darkorange;
+    color: coral;
     font-size: 15px;
 }
 
 h1 {
-    color: #1F3F68;
+    color: coral;
     font-size: 70px;
+    margin-top: 20px;
+    margin-left: 30px;
 }
 
 h2 {
-    color: darkorange;
-    font-size: 24px;
+    color: cadetblue;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-left: 15px;
 
+}
+h3{
+    color: cadetblue;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-left: 15px;
+    
+}
+
+
+.opisanie{
+        color: black;
+    font-size: 24px;
+    margin-top: -530px;
+    margin-left: 870px;
+    margin-right: 30px;
 
 }
 
+.products{
+    font-size: 24px;
+    margin-top: 20px;
+    margin-left: 100px;
+    
+}
 
 .button {
     width: 100px;
@@ -121,7 +148,7 @@ placeholder {
     opacity: 0.4;
 }
 
-.knopa background: cornflowerblue;
+. knopabackground: cornflowerblue;
 box-shadow: 5px 20px 50px rgba(16 0.2);
 border-radius: 10px;
 font-weight: 500;
